@@ -8,7 +8,7 @@ export default function About() {
   return (
     <PostModel
       fotoCapa={fotoCapa}
-      titulo="Sobre Min"
+      titulo="Sobre Mim"
     >
       <h3 className={styles.subtitulo}>
         Olá, eu sou o Lucas
